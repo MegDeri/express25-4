@@ -21,9 +21,4 @@ const server = app.listen(3000, 'localhost', function() {
     console.log('Przykładowa aplikacja nasłuchuje na http://' + host + ':' + port);
 });
 
-
-
-
-
-
 app.listen(3000);
